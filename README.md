@@ -1,4 +1,8 @@
 # BadApple
 Bad Apple in the console using OpenCV. 
-Original: https://www.youtube.com/watch?v=FtutLA63Cp8
-![Screenshot](https://github.com/Ezhidzee/BadApple/blob/master/EyAw-l8Gc7E.jpg?raw=true)
+
+### Video:
+
+https://www.youtube.com/watch?v=XGLVSNwqbyc
+
+[![VIDEO](https://img.youtube.com/vi/XGLVSNwqbyc/0.jpg)](https://www.youtube.com/watch?v=XGLVSNwqbyc)
